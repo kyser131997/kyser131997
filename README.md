@@ -127,6 +127,19 @@
 
 ---
 
+
+## 🌍 Connectez-vous avec moi
+
+<p>
+  <a href="https://www.linkedin.com/in/nicodeme-434912175/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nicodememoulonga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+
+</p>
+
+---
+
+
+
 ## 🚀 Quelques projets
 
 <table>
@@ -170,19 +183,12 @@
 </table>
 
 <p align="center">
-  👉 <a href="https://github.com/kyser131997?tab=repositories"><b>Voir plus de projets</b></a>
+  👇 <b>Voir plus de projets</b>
+  <!--a href="https://github.com/kyser131997?tab=repositories"><-- /a>
 </p>
 
 ---
 
-## 🌍 Connectez-vous avec moi
 
-<p>
-  <a href="https://www.linkedin.com/in/nicodeme-434912175/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nicodememoulonga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/kyser131997"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white"/></a>
-</p>
-
----
 
 ⭐ **Ajoutez ce dépôt à vos favoris si vous le trouvez utile !**
