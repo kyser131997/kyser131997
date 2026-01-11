@@ -133,11 +133,11 @@
 <tr>
 <td width="33%">
 
-### 📊 BI Dashboard (KPI & Performance)
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/dashboard.png" width="100%"/>
+### 📊 Pipeline ETL Automatisé NYC Taxi (GCP)
+<img src="https://github.com/kyser131997/data-pipeline-etl/blob/main/Architecture%20du%20projet.jpeg" width="100%"/>
 
 **Technologies**  
-`Power BI` · `SQL`
+`GCP` · `SQL`· `BigQuery` `Airflow`· `python`· `Looker studio`
 
 🔗 [Voir le projet](#)
 
