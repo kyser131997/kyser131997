@@ -20,7 +20,7 @@
 
 - 📂 Tous mes projets sont disponibles sur : [GitHub](https://github.com/kyser131997/nicodeme)
 - 🌐 Site web personnel : *(à venir)*
-- ☁️ Intérêt fort pour **Cloud / Modern Data Stack**
+- ☁️ Intérêt fort pour **Data / Modern Data Stack**
 - 📍 Basé à **Paris, France**
 - 📧 Contact : **nicodememoulonga@gmail.com**
 
