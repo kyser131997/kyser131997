@@ -112,7 +112,7 @@
 
 ---
 
-## 🚀 Quelques projets Projects
+## 🚀 Quelques projets
 
 <table>
 <tr>
