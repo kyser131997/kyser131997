@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, je suis nicodeme</h1>
+<h1 align="center">👋 Salut, je suis NICODEME</h1>
 <div align="center">
   <img src="https://img.freepik.com/premium-vector/big-data-banner-web-icon-set-vector-illustration-concept-with-icon-research-collection-database_1328091-4.jpg" alt="DevOpsShack Banner">
 </div>
