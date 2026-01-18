@@ -158,13 +158,13 @@
 
 <td width="33%">
 
-### ⚙️ Data Pipeline Automation
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/pipeline.png" width="100%"/>
+### ⚙️ LLD-Churn-Prediction-Machine-Learning
+<img src="https://github.com/kyser131997/LLD-Churn-Prediction-Machine-Learning/blob/main/image/acceuil_LLD.jpeg" width="100%"/>
 
 **Technologies**  
-`Python` · `Airflow`
+`Python` · `Machine Learning`· `Data for Business`· `Prédiction`· `Streamlit`· `Analyse de risque`
 
-🔗 [Voir le projet](#)
+🔗 [Voir le projet](https://github.com/kyser131997/LLD-Churn-Prediction-Machine-Learning/tree/main)
 
 </td>
 
